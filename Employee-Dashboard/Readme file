@@ -1,1 +1,86 @@
 
+## Project Overview
+
+This project focuses on analyzing **Employee Data** using **Power BI**. The main objective is to understand employee distribution, performance, and key HR metrics through interactive dashboards.
+
+The report helps to analyze:
+
+* Total employee count
+* Department-wise employee distribution
+* Gender-wise and age-wise analysis
+* Salary trends and comparisons
+* Key HR insights for decision making
+
+---
+
+## Tools & Technologies Used
+
+* **Power BI Desktop** – data modeling & visualization
+* **Excel / CSV** – employee dataset source
+* **GitHub** – project version control
+
+---
+
+##  Dataset Information
+
+* Dataset Type: Employee / HR data
+* Data Includes:
+
+  * Employee ID
+  * Employee Name
+  * Department
+  * Gender
+  * Age
+  * Salary
+  * Designation
+  * Joining Date (if available)
+
+---
+
+##  Key KPIs (Measures)
+
+* Total Employees
+* Average Salary
+* Department-wise Employee Count
+* Gender Ratio
+* Highest & Lowest Salary
+
+---
+
+##  Visualizations Used
+
+* KPI Cards – total employees, average salary
+* Bar Chart – department-wise employee count
+* Pie / Donut Chart – gender distribution
+* Column Chart – salary comparison
+* Table – employee details
+
+---
+
+##  Insights from the Report
+
+* Identified departments with highest employee strength
+* Analyzed salary distribution across departments
+* Observed gender balance in the organization
+* Compared average salaries by department/designation
+
+---
+
+## 🔹 How to Use This Project
+
+1. Open the Power BI report in **Power BI Desktop**
+2. Refresh the data if required
+3. Use filters/slicers to explore employee insights
+
+---
+
+## 🔹 Conclusion
+
+This project demonstrates **HR analytics using Power BI**, including KPI creation, employee data analysis, and insight generation. It is suitable for **Data Analyst / HR Analyst portfolio projects**.
+
+---
+
+## 🔹 Author
+
+**Rani Kanhe**
+
