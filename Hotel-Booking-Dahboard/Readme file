@@ -1,1 +1,83 @@
+Hotel Booking Analysis – Power BI Dashboard
+
+1) Project Overview
+
+This project presents a **Hotel Booking Analysis Dashboard** developed using **Power BI**.
+The dashboard provides a clear overview of hotel booking patterns, customer behavior, and revenue-related metrics to support business and operational decision-making.
+
+2) The analysis helps to understand:
+
+* Overall booking performance
+* Customer booking behavior
+* Room and hotel type demand
+* Cancellation trends
+* Revenue-related insights
+
+3) Tools & Technologies
+
+* Power BI Desktop – data modeling & dashboard creation
+* Hotel Booking Dataset (Excel / CSV)
+* GitHub – project documentation and version control
+
+
+4) Dataset Overview
+
+The dataset contains hotel booking–related information including:
+
+* Hotel Type (City Hotel / Resort Hotel)
+* Arrival Date (Year, Month, Day)
+* Number of Adults, Children, Babies
+* Room Type (Reserved & Assigned)
+* Stay Duration (Weekdays & Weekends)
+* Booking Status (Canceled / Not Canceled)
+* Lead Time
+* Average Daily Rate (ADR)
+
+---
+
+5) Key KPIs
+
+* Total Bookings
+* Total Cancellations
+* Cancellation Rate (%)
+* Average Daily Rate (ADR)
+* Average Length of Stay
+
+
+
+6) Dashboard Visualizations
+
+* KPI Cards – total bookings, cancellations, ADR
+* Bar Chart – bookings by hotel type
+* Line Chart – monthly booking trends
+* Donut / Pie Chart – cancellation vs non-cancellation
+* Column Chart – room type demand
+* Slicers – hotel type, arrival month, year
+
+---
+
+7) Key Insights
+
+* City hotels receive higher bookings compared to resort hotels
+* A significant portion of bookings are canceled, indicating demand volatility
+* Peak bookings occur during specific months/seasons
+* Certain room types are booked more frequently
+* Longer lead time is associated with higher cancellation probability
+
+---
+
+8) How to Use the Dashboard
+
+1. Open the `.pbix` file in **Power BI Desktop**
+2. Refresh the dataset if required
+3. Use slicers to filter by hotel type, time period, or booking status
+4. Interact with visuals to explore trends and insights
+
+---
+
+9) Conclusion
+
+This dashboard demonstrates practical **data analytics and visualization skills using Power BI**, focusing on real-world hospitality data.
+It is suitable for **Data Analyst / Business Analyst portfolio projects**, especially in the hospitality domain.
+
 
